@@ -1,0 +1,1 @@
+{"version":3,"file":"CarouselVariables.d.ts","sourceRoot":"","sources":["../../src/CarouselVariables/CarouselVariables.tsx"],"names":[],"mappings":"AAAA,OAAO,KAAK,MAAM,OAAO,CAAC;AAW1B,OAAO,KAAK,EAAE,aAAa,EAAE,MAAM,aAAa,CAAC;AAEjD,UAAU,sBAAuB,SAAQ,aAAa;IACpD,QAAQ,EAAE,MAAM,CAAC;CAClB;AAED,wBAAgB,iBAAiB,CAAC,EAAE,QAAQ,EAAE,SAAS,EAAE,QAAQ,EAAE,EAAE,sBAAsB,qBAqC1F"}
