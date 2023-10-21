@@ -8,7 +8,7 @@ import FadeInSection from './fade'
 import Fade from 'react-reveal/Fade';
 import Demo from './animation'
 import video from '/src/assets/bgvid1.mp4'
-import SearchBar from './SearchBar';
+// import SearchBar from './SearchBar';
 import axios from 'axios'
 import { MultiSelect } from '@mantine/core'
 
